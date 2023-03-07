@@ -1,0 +1,45 @@
+                                                            ###Basic Java Programs
+
+This repository contains several basic Java programs that demonstrate common programming concepts. Each program is contained in its own file and can be compiled and run independently.
+
+##Programs
+
+1.Basic Calculator Operations - This program allows the user to perform basic arithmetic operations such as addition, subtraction, multiplication, and division.
+
+2.Duplicate Number in an Array - This program finds and prints the duplicate numbers in an array of integers.
+
+3.Print the Largest Element in an Array - This program finds and prints the largest element in an array of integers.
+
+4.Swapping Without Third Variable - This program demonstrates how to swap two variables without using a third variable.
+
+5.Print the Smallest Element in an Array - This program finds and prints the smallest element in an array of integers.
+
+6.Find the 2nd Smallest Number in an Array - This program finds and prints the second smallest number in an array of integers.
+
+7.Most Repeated Word in a Text File - This program reads a text file and finds the most repeated word.
+
+8.Count Number of Vowels in a Given String - This program counts the number of vowels in a given string.
+
+9.Get Last n Vowels of a Given String - This program gets the last n vowels of a given string.
+
+10.Count Number of Occurrences of Each Element in a Sorted Array - This program counts the number of occurrences of each element in a sorted array of integers.
+
+11.Repeating Element in an Array of Integers - This program finds and prints the repeating elements in an array of integers.
+
+12.Date Calculation - This program calculates the difference between two dates in years, months, and days.
+
+
+##How to Run the Programs
+
+1.To run the programs in this repository, you will need to have Java installed on your computer. Once you have Java installed, you can compile and run each program using the following steps:
+
+2.Open a terminal or command prompt and navigate to the directory where the program file is located.
+
+3.Compile the program using the javac command. For example, to compile the Basic Calculator Operations program, you would type ‘javac BasicCalculatorOperations.java’.
+
+4.Run the program using the java command. For example, to run the Basic Calculator Operations program, you would type ‘java BasicCalculatorOperations’.
+
+
+##Contributing
+
+If you would like to contribute to this repository, please fork the repository, make your changes, and submit a pull request. All contributions are welcome!
